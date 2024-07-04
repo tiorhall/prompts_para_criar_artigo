@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src="github/assets/banner.png">
+    <img width="1280" src="github/assets/banner.jpg">
 
 # Projeto artigo técnico gerado por I.A.s
 
